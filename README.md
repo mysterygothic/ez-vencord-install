@@ -19,6 +19,5 @@ To apply this fix, you’ll need the **VencordToolBox** plugin enabled.
 
 
 
-# Done and Dusted! 
-Enjoy your working Vencord experience without any hassles.  
+2 - Everything Should work now.
 > ![Cute Image](https://github.com/user-attachments/assets/66558578-fa42-47de-9714-0a2014260368)  
