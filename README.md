@@ -6,11 +6,10 @@ Discord keeps breaking things, but here's the simplest solution
 ##  Prerequisite: Enable the **VencordToolBox** Plugin  
 To apply this fix, you’ll need the **VencordToolBox** plugin enabled.  
 
-### Steps to Enable:  
+
 1. Go to **Plugins** in Vencord.  
 2. Find **VencordToolBox** in the list and toggle it on.  
 
----
 
 ## 🛠️ Applying the Fix  
 1. Once enabled, look for the **VencordToolBox** plugin button in your UI.  
@@ -18,7 +17,7 @@ To apply this fix, you’ll need the **VencordToolBox** plugin enabled.
 
 
 
----
+
 
 # Done and Dusted! 
 Enjoy your working Vencord experience without any hassles.  
