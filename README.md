@@ -1,4 +1,4 @@
-#  Simple Fix for EZ Vencord Install 
+#  Simple Fix for ez vencord install 
 
 Discord keeps breaking things, but here's the simplest solution 
 
