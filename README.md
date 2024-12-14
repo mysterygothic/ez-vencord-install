@@ -1,8 +1,7 @@
-# 🌟 Simple Fix for EZ Vencord Install 🌟  
+#  Simple Fix for EZ Vencord Install 
 
 Discord keeps breaking things, but here's the simplest solution 
 
----
 
 ##  Prerequisite: Enable the **VencordToolBox** Plugin  
 To apply this fix, you’ll need the **VencordToolBox** plugin enabled.  
