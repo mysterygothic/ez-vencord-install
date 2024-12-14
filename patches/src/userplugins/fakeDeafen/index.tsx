@@ -88,7 +88,7 @@ export default definePlugin({
     },
 
     toolboxActions: {
-        "Toggle FakeDeafen By @gothyo on discord": () => {
+        "Toggle FakeDeafen": () => {
             toggleFakeDeafen();
         },
     },
